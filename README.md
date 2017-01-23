@@ -1,8 +1,10 @@
 # Awesome Git
 A curated list of amazingly awesome Git tools, resources and shiny things.
+一份Git工具/資源/耀眼的東西的導覽清單
 
 ## Contributing
 Pull requests on interesting tools/projects/resources are welcome.
+歡迎對有趣的工具/專案/資源作pull request
 
 ## Table of Contents
 - [Awesome Git](#awesome-git)
@@ -18,10 +20,14 @@ Pull requests on interesting tools/projects/resources are welcome.
 ## Tutorial
 *There are tons of learning material on the Web*
 
+* [中文Git教學] (https://kingofamani.gitbooks.io/git-teach/content/chapter_2/git.html)
+* [連猴子都能懂的Git入門指南] (https://backlogtool.com/git-guide/tw/intro/intro1_1.html)
 * [Try Git](https://try.github.io/) - learn Git in 15 minutes with pseudo-terminal interface
 * [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/) - comprehensive tutorial on Git
+* [版本管理] (https://zh.wikipedia.org/wiki/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6)
 * [Learn Version Control with Git](https://www.git-tower.com/learn/) - freemium ebook from fournova Software (makers for Tower), associated with paid video course
 * [Pro Git](https://git-scm.com/book/) - free Git book (CC BY-NC-SA 3.0)
+* [Git 安裝教學] (https://git-scm.com/book/zh-tw/v2/%E9%96%8B%E5%A7%8B-Git-%E5%AE%89%E8%A3%9D%E6%95%99%E5%AD%B8)
 * [The Git Community Book](https://schacon.github.io/gitbook/) - book built by dozens of people in the Git community
 * [Git Pocket Guide](http://chimera.labs.oreilly.com/books/1230000000561) - a short O'Reilly book on Git
 * [Git Real: Code School](https://www.codeschool.com/courses/git-real/) - paid training course from Code School
@@ -29,6 +35,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 ## Client
 *Git clients are available on every platform, from mainframe to your mobile device*
+*從主流平台到行動裝置皆有Git客戶端可供使用*
 
 * [TortoiseGit](https://tortoisegit.org/) - an easy-to-use Git client on Windows. well-intrgrated with Windows Explorer.
 * [GitHub Desktop](https://desktop.github.com/) - Git Client by GitHub. works with GitHub and GitHub Enterprise seamlessly
@@ -44,6 +51,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 ## Repository Hosting
 *People have plenty of options to host their source code*
+*人們有非常多的選擇來host自己的程式碼*
 
 * [GitHub](http://github.com/) - the de-facto git hosting service. Perfect integration with most external services.
 * [BitBucket](http://bitbucket.org/) - well-known for its free private repository (5 user max).
@@ -56,6 +64,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 ## Self-Hosted Repository
 *Or you can host the code yourselves*
+*或者自行hosting*
 
 * [Gitolite](http://gitolite.com/gitolite/) - a simple with fine-grained access control
 * [GitHub Enterprise](https://enterprise.github.com/) - self-hosted solution provided from GitHub
@@ -71,6 +80,7 @@ Pull requests on interesting tools/projects/resources are welcome.
 
 ## Workflow
 *Inexpensive branching allows people adopt workflows other than the classic centralilzed workflow*
+*相較於傳統的集中式工作流程管理方式，低成本的分支方式讓人們可以熟悉並使用工作流程*
 
 * [Pro Git - Distributed Workflows](https://git-scm.com/book/it/v2/Distributed-Git-Distributed-Workflows)
 * [Atlassian Git Tutorial - Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
